@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;">
 <hr>
 <h2 align="center">Deploy 👨🏽‍💻</h2>
-<a href="https://lilian-rangel.github.io/calculadora-imc/" target="_blank">Confira a calculadora nesse link</a>
+<a href="https://lilian-rangel-calculadora-imc.netlify.app/" target="_blank">Confira a calculadora nesse link</a>
 <hr>
 <h2 align="center">Como utilizar a calculadora</h2>
 <ul>
